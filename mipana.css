@@ -409,3 +409,8 @@ h3{
     height: 60px;
     margin-left: 40%;
 }
+@media (max-width:800px){
+    body{
+        flex-direction: column;
+    }
+}
